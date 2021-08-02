@@ -90,29 +90,7 @@
       "WIN/USDT",
       "HYDRA/USDT",
       "MKR/USDT"
-    ],
-        "old_pair_whitelist": [
-            "AAVE/USDT",
-            "BCH/USDT",
-            "BTC/USDT",
-            "CHR/USDT",
-            "COMP/USDT",
-            "DOT/USDT",
-            "ENJ/USDT",
-            "GRT/USDT",
-            "ICP/USDT",
-            "KSM/USDT",
-            "LINK/USDT",
-            "MATIC/USDT",
-            "MIR/USDT",
-            "ONE/USDT",
-            "SAND/USDT",
-            "SNX/USDT",
-            "THETA/USDT",
-            "UNI/USDT",
-            "VELO/USDT",
-            "VET/USDT",
-            "XDC/USDT",
-        ]
+    ]
+
     }
 }
